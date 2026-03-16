@@ -1,0 +1,5 @@
+{
+  "name": "Word to Markdown Converter",
+  "description": "A simple tool to convert Word documents (.docx) and HTML files to Markdown with drag-and-drop support.",
+  "requestFramePermissions": []
+}
